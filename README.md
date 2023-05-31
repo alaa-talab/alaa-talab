@@ -23,7 +23,7 @@
 <a href="https://www.behance.net/alaatalab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alaa talab" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCNOkJlmdFgQBEDf0hHaC4vw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alaa talab" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/alaa9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alaa9" height="30" width="40" /></a>
-<a href="https://discord.gg/2823" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2823" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2823" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
