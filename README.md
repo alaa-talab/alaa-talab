@@ -16,12 +16,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alaa talab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaa talab" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19359570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19359570" height="30" width="40" /></a>
-<a href="https://fb.com/alaa talab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alaa talab" height="30" width="40" /></a>
-<a href="https://instagram.com/a1aa_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a1aa_9" height="30" width="40" /></a>
-<a href="https://www.behance.net/alaa talab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alaa talab" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alaa talab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alaa talab" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alaa-talab-2656311a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaa talab" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19359570/alaa-talab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19359570" height="30" width="40" /></a>
+<a href="https://www.facebook.com/alaa.talab.779/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alaa talab" height="30" width="40" /></a>
+<a href="https://www.instagram.com/a1aa_9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a1aa_9" height="30" width="40" /></a>
+<a href="https://www.behance.net/alaatalab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alaa talab" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCNOkJlmdFgQBEDf0hHaC4vw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alaa talab" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/alaa9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alaa9" height="30" width="40" /></a>
 <a href="https://discord.gg/2823" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2823" height="30" width="40" /></a>
 </p>
