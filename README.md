@@ -4,11 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dvcfefmys/image/upload/v1740913180/5643241_quwpnq.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaa-talab&label=Profile%20views&color=0e75b6&style=flat" alt="alaa-talab" /> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://portfolio.sdac.space/](https://portfolio.sdac.space/)
-
-- 💬 Ask me about **Laravel , Graphic design , lms open source systems**
+- 💬 Ask me about **Next.js , Nest.js , Headless-cms integrations**
 
 - 📫 How to reach me **alaatalab99@gmail.com**
 
