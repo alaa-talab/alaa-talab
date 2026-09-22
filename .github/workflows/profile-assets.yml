@@ -26,7 +26,14 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
+
+      # Platane/snk is a Docker container action; the dist/ dir it creates
+      # (and the files in it) end up owned by root, so the next step
+      # (running as the normal `runner` user) can't create new files there
+      # without this.
+      - name: fix dist/ ownership after the container action
+        run: sudo chown -R "$(id -u):$(id -g)" dist
 
       - name: generate stats.svg and top-langs.svg
         run: node scripts/generate-stats.mjs
