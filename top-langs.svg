@@ -1,0 +1,33 @@
+<svg width="340" height="348" viewBox="0 0 340 348" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="alaa-talab's most used languages">
+  <rect x="0.5" y="0.5" width="339" height="347" rx="12" fill="#05070D" stroke="#d8a84e33" />
+  <text x="28" y="30" fill="#D8A84E" font-size="18" font-weight="700" font-family="'Segoe UI', Ubuntu, Sans-Serif">Most Used Languages</text>
+  <g font-family="'Segoe UI', Ubuntu, Sans-Serif">
+    <text x="28" y="56" fill="#F5F1E8" font-size="13" font-weight="600">TypeScript</text>
+    <text x="312" y="56" fill="#B9B2A3" font-size="12" text-anchor="end">49.3%</text>
+    <rect x="28" y="64" width="284" height="6" rx="3" fill="#ffffff14" />
+    <rect x="28" y="64" width="139.87276897677827" height="6" rx="3" fill="#3178c6" />
+    <text x="28" y="96" fill="#F5F1E8" font-size="13" font-weight="600">JavaScript</text>
+    <text x="312" y="96" fill="#B9B2A3" font-size="12" text-anchor="end">29.4%</text>
+    <rect x="28" y="104" width="284" height="6" rx="3" fill="#ffffff14" />
+    <rect x="28" y="104" width="83.39773210197382" height="6" rx="3" fill="#f1e05a" />
+    <text x="28" y="136" fill="#F5F1E8" font-size="13" font-weight="600">PHP</text>
+    <text x="312" y="136" fill="#B9B2A3" font-size="12" text-anchor="end">12.3%</text>
+    <rect x="28" y="144" width="284" height="6" rx="3" fill="#ffffff14" />
+    <rect x="28" y="144" width="35.01090813118704" height="6" rx="3" fill="#4F5D95" />
+    <text x="28" y="176" fill="#F5F1E8" font-size="13" font-weight="600">Python</text>
+    <text x="312" y="176" fill="#B9B2A3" font-size="12" text-anchor="end">3.5%</text>
+    <rect x="28" y="184" width="284" height="6" rx="3" fill="#ffffff14" />
+    <rect x="28" y="184" width="9.882683137767392" height="6" rx="3" fill="#3572A5" />
+    <text x="28" y="216" fill="#F5F1E8" font-size="13" font-weight="600">CSS</text>
+    <text x="312" y="216" fill="#B9B2A3" font-size="12" text-anchor="end">3.4%</text>
+    <rect x="28" y="224" width="284" height="6" rx="3" fill="#ffffff14" />
+    <rect x="28" y="224" width="9.674140953629625" height="6" rx="3" fill="#563d7c" />
+    <text x="28" y="256" fill="#F5F1E8" font-size="13" font-weight="600">HTML</text>
+    <text x="312" y="256" fill="#B9B2A3" font-size="12" text-anchor="end">0.8%</text>
+    <rect x="28" y="264" width="284" height="6" rx="3" fill="#ffffff14" />
+    <rect x="28" y="264" width="2.362067656663822" height="6" rx="3" fill="#e34c26" />
+    <text x="28" y="296" fill="#F5F1E8" font-size="13" font-weight="600">Blade</text>
+    <text x="312" y="296" fill="#B9B2A3" font-size="12" text-anchor="end">0.7%</text>
+    <rect x="28" y="304" width="284" height="6" rx="3" fill="#ffffff14" />
+    <rect x="28" y="304" width="2.053787906199295" height="6" rx="3" fill="#f7523f" /></g>
+</svg>
